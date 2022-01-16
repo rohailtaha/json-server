@@ -18,5 +18,37 @@
       "category": "Politics",
       "desc": "This is description 3."
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": "1100",
+      "desc": "This is product 1. Very good product. It is very easy to use."
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": "2000",
+      "desc": "This is product 2. Very good product. It is very easy to use."
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": "500",
+      "desc": "This is product 3. Very good product. It is very easy to use."
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": "1800",
+      "desc": "This is product 4. Very good product. It is very easy to use."
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "price": "2800",
+      "desc": "This is product 5. Very good product. It is very easy to use."
+    }
   ]
 }
