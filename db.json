@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "category": "Sports",
+      "desc": "This is description 1."
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "category": "Politics",
+      "desc": "This is description 2."
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "category": "Politics",
+      "desc": "This is description 3."
+    }
+  ]
+}
